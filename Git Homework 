@@ -9,9 +9,9 @@
 <body>
   <div class="container">
     <div class="row">
-      <div class="left-column">
+      <div class="article">
       </div>
-      <div class="right-column">
+      <div class="sidebar">
       </div>
       </div>
     </div>
