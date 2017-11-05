@@ -7,3 +7,12 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="bootstrap-layout.css" rel="stylesheet" type="text/css">
 <body>
+  <div class="container">
+    <div class="row">
+      <div class="left-column">
+      </div>
+      <div class="right-column">
+      </div>
+      </div>
+    </div>
+  </div>
