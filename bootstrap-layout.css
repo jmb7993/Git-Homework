@@ -1,0 +1,9 @@
+.container {
+  background: lightgrey;
+}
+.clearfix {
+  overflow: auto;
+}
+body {
+  background: darkgrey;
+}
